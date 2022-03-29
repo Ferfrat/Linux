@@ -1,1 +1,1 @@
-# Linux
+Basic commands of the Linux terminal
